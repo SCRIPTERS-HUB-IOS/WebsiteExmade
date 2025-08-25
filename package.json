@@ -8,13 +8,16 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "14.2.3",
+    "next": "14.2.5",
     "react": "18.3.1",
     "react-dom": "18.3.1",
-    "tsparticles-engine": "^2.12.2",
-    "tsparticles": "^2.12.2",
-    "tsparticles-preset-links": "^2.12.2",
-    "tsparticles-shape-circle": "^2.12.2",
-    "tsparticles-interaction-external-attract": "^2.12.2"
+    "tsparticles": "^3.5.0",
+    "tsparticles-engine": "^3.5.0",
+    "tsparticles-preset-links": "^3.5.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.20",
+    "postcss": "8.4.41",
+    "tailwindcss": "3.4.10"
   }
 }
